@@ -1,15 +1,15 @@
 {
   "name": "@stormy/editorjs-list",
-  "version": "2.0.8",
+  "version": "0.0.1",
   "keywords": [
     "codex editor",
     "list",
     "editor.js",
     "editorjs"
   ],
-  "description": "List Tool for EditorJS",
-  "repository": "https://github.com/editor-js/list.git",
-  "author": "CodeX <team@codex.so>",
+  "description": "Fork of @editorjs/list with bug fixes and improvements",
+  "repository": "https://github.com/Sohila-Hashem/list",
+  "author": "Sohila Hashem",
   "license": "MIT",
   "files": [
     "dist"
